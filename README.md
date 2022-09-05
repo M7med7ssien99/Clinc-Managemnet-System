@@ -1,6 +1,7 @@
 # Clinc-Managemnet-System
 Write a C code for clinic management system. At the beginning of the system it asks the user to choose
 between admin mode and user mode.
+
 1/In admin mode:......
 
 The system asks for password, the default password is 1234. The system allows 3 trails for the password
@@ -21,6 +22,7 @@ patient reservation.
 4. Cancel reservation:
 The admin can cancel a reservation by entering the patient ID. This reservation shall be shown again in
 the available slots window.
+
 2/In the user mode:.......
 
 There is no password. The system allows the following features:
